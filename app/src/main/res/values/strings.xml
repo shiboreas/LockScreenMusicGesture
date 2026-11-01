@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">锁屏切歌</string>
+    <string name="accessibility_desc">用于全品牌安卓手机锁屏手势切歌后台常驻守护，不读取任何屏幕隐私内容，零额外耗电。</string>
+</resources>
